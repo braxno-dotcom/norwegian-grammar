@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://braxno-dotcom.github.io/norwegian-grammar/sitemap.xml
